@@ -33,4 +33,4 @@ git clone https://github.com/cizodevahm/Q-A_with_RAG_LLM_LangChain.git
 - Add a graphical user interface (GUI) for easier interaction with the system.
 
 ## License
-- This project is licensed under the MIT License.
+- This project is licensed under the GPL-3.0 license.
